@@ -16,18 +16,38 @@ output:
 
 ---
 
-讓我來跟您們談談我是如何成為一位資料分析師的，聽完我的學習、工作經歷之後，您就能夠依樣畫葫蘆
+![Imgur](https://i.imgur.com/NTKWXCw.jpg)
 
-## A long time ago, in a galaxy far far away...
+---
 
-## Buzzinga! 
+![Imgur](https://i.imgur.com/pDdv905.jpg)
 
-## 常喜歡掛在嘴上的話
+---
 
 > Talk is cheap, show me the code
 
 > Experience varies, show me the data
 
-## 資料分析師的任務是協助組織基於資料作決策，而非直覺與經驗
+---
 
-## 這是一個狡詐的問題
+![Imgur](https://i.imgur.com/6eqinwb.jpg)
+
+---
+
+![Imgur](https://i.imgur.com/RgZZPJT.jpg)
+
+---
+
+![Imgur](https://i.imgur.com/5tMrrhy.jpg)
+
+## 標準三步驟
+
+>- 吸收問題
+>- 解決問題
+>- 執行解法
+
+---
+
+>- 吸收問題：「如何成為」、「資料分析師」
+>- 解決問題：釐清「資料分析師」的輪廓樣貌
+>- 執行解法：擬定「如何成為」的行動方案
