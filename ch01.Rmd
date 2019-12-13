@@ -1,0 +1,33 @@
+---
+title: "「如何成為資料分析師」| 章節一"
+author: 郭耀仁 Yao-Jen Kuo
+output:
+  revealjs::revealjs_presentation:
+    theme: night
+    highlight: zenburn
+    center: true
+    reveal_options:
+      self_contained: true
+      previewLinks: true
+      slideNumber: true
+---
+
+# 在回答「如何成為資料分析師」之前
+
+---
+
+讓我來跟您們談談我是如何成為一位資料分析師的，聽完我的學習、工作經歷之後，您就能夠依樣畫葫蘆
+
+## A long time ago, in a galaxy far far away...
+
+## Buzzinga! 
+
+## 常喜歡掛在嘴上的話
+
+> Talk is cheap, show me the code
+
+> Experience varies, show me the data
+
+## 資料分析師的任務是協助組織基於資料作決策，而非直覺與經驗
+
+## 這是一個狡詐的問題
